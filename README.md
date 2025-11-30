@@ -70,4 +70,3 @@ Petra: "[Claude-generated response about actuarial models] Meow."
 4. Commit: `git commit -m 'Add amazing feature'`
 5. Push: `git push origin feature/amazing-feature`
 6. Open a Pull Request
-
