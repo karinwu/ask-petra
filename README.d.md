@@ -8,7 +8,7 @@
 
 ## **P**roject **R**isk **E**valuation and **T**esting **A**ssistant (Petra)
 
-An AI-powered chatbot named Petra that serves the MRM team. Petra combines a curated FAQ knowledge base with Claude AI to provide helpful, cat-personality responses to team questions.
+An AI-powered chatbot named Petra that serves the team. Petra combines a curated FAQ knowledge base with Claude AI to provide helpful, cat-personality responses to team questions.
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ An AI-powered chatbot named Petra that serves the MRM team. Petra combines a cur
 - 🐱 **Personality**: Petra maintains a friendly cat personality (ends responses with "Meow")
 - 🔍 **Smart Search**: Uses sentence transformers for semantic FAQ matching
 - ⚡ **Fast Responses**: Instant replies for known FAQs, intelligent responses for new questions
-- 🏢 **Business Context**: Specialized knowledge about RGA and MRM team operations
+- 🏢 **Business Context**: Specialized knowledge about risk modeling team operations
 
 
 ### How It Works
@@ -53,7 +53,7 @@ Petra: "meow"
 ### FAQ Query
 ```
 User: "Who are you?"
-Petra: "I am a chatbot. My name is Petra and I work for MRM team. Meow."
+Petra: "I am a chatbot. My name is Petra and I work for modeling team. Meow."
 ```
 
 ### Business Question (Claude Fallback)
